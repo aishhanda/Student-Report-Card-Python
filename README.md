@@ -1,9 +1,7 @@
 ## 🚀 Try It Online
+https://replit.com/@handaaishx/Student-Report-Card-Python-3
 
-👉 [Run on Replit]((https://github.com/aishhanda/Student-Report-Card-Python))  
-*(No setup needed — runs in your browser!)*
-
-
+type in shell : python student_report_card.py
 
 # 📝 Student Report Card Generator (Python)
 
@@ -22,3 +20,4 @@ Built as part of my #100DaysOfCode journey 💪
 Feel free to give feedback or suggest improvements!
 # Student-Report-Card-Python
 A Python program to calculate grades, average marks, and export student data to CSV.
+
