@@ -1,3 +1,10 @@
+## 🚀 Try It Online
+
+👉 [Run on Replit](https://replit.com/@chatgptlabs/StudentReportCard)  
+*(No setup needed — runs in your browser!)*
+
+
+
 # 📝 Student Report Card Generator (Python)
 
 This beginner-level Python program lets you:
@@ -9,13 +16,7 @@ This beginner-level Python program lets you:
 - Save everything into a `.csv` file
 - Display a final report in the terminal
 
-## 💻 How to Run
 
-1. Clone or download the repo
-2. Open the file `student_report_card.py`
-3. Run it in your Python environment
-
----
 
 Built as part of my #100DaysOfCode journey 💪  
 Feel free to give feedback or suggest improvements!
