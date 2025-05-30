@@ -1,6 +1,6 @@
 ## 🚀 Try It Online
 
-👉 [Run on Replit]([https://replit.com/@chatgptlabs/StudentReportCard](https://github.com/aishhanda/Student-Report-Card-Python))  
+👉 [Run on Replit]((https://github.com/aishhanda/Student-Report-Card-Python))  
 *(No setup needed — runs in your browser!)*
 
 
