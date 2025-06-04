@@ -1,5 +1,5 @@
 ## 🚀 Try It Online
-[RUN ON REPLIT](https://replit.com/@handaaishx/Student-Report-Card-Python-3)
+[RUN ON REPLIT](https://replit.com/@hazerstore0/STUDENT-REPORT-CARD)
 
 HOW TO RUN: type in shell : python student_report_card.py
 
